@@ -10,5 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "ethers": "^5.5.4"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1"
   }
 }
